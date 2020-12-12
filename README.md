@@ -9,7 +9,7 @@ commands:- purge,kick,ban,say,user-info,server,help,ping
 
 ### Installing
 
-You need to install node.js and then you need install some assets open command prompt and type npm install discord.js . you need install this in your main folder.
+You need to install node.js and then you need install some assets open command prompt and type npm install discord.js . you need install this in your main folder. Paste your bot token in config.json
 
 ## Built With
 
