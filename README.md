@@ -14,3 +14,4 @@ You need to install node.js and then you need install some assets open command p
 ## Built With
 
 * [NODE.JS](https://nodejs.org/en/)
+* [DISCORD.JS](https://discord.js.org/#/)
