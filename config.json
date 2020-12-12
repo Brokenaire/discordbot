@@ -1,6 +1,6 @@
 { 
-  //paste your bot token here
+// paste your bot token here
   "token"  : "NzcwOTMwMDUwNDI5NDg1MDc4.X5kujw.NDMW5PiXZaziCC_9fN_zuScrjug",
-  //paste your prefix ex !,$,.,?
+// paste your prefix ex !,$,.,?
   "prefix" : "."
 }
