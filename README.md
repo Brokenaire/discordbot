@@ -16,6 +16,10 @@ You need to install node.js and then you need install some assets open command p
 * [NODE.JS](https://nodejs.org/en/)
 * [DISCORD.JS](https://discord.js.org/#/)
 
+## Screenshots
+
+<img src="pictures/Screenshot_1.png" width=50%>
+<img src="pictures/Screenshot_2.png" width=50%>
 License
 -------
 
