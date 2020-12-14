@@ -15,3 +15,8 @@ You need to install node.js and then you need install some assets open command p
 
 * [NODE.JS](https://nodejs.org/en/)
 * [DISCORD.JS](https://discord.js.org/#/)
+
+License
+-------
+
+Refer to the [LICENSE](LICENSE) file.
