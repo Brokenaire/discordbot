@@ -20,7 +20,7 @@ You need to install node.js and then you need install some assets open command p
 
 <img src="screenshots/Screenshot_1.png" width=40%>
 <img src="screenshots/Screenshot_2.png" width=40%>
-License
--------
 
-Refer to the [LICENSE](LICENSE) file.
+## [LICENSE]
+
+Refer to the (LICENSE) file.
