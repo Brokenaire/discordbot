@@ -23,4 +23,4 @@ You need to install node.js and then you need install some assets open command p
 
 ## [LICENSE]
 
-Refer to the (LICENSE) file.
+Refer to the [LICENSE](LICENSE) file.
