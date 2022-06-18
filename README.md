@@ -4,7 +4,7 @@ Simple discord bot built with dicord.js
 
 ## Getting Started
 
-Simple Discord Bot . For your Discord server A simple moderation Bot . 
+A simple moderation Bot, For your Discord server.
 commands:- purge,kick,ban,say,user-info,server,help,ping 
 
 ### Installing
